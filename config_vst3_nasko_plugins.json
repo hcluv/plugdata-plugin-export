@@ -1,22 +1,12 @@
 [
   {
-    "name": "N-TILT",
-    "author": "Nasko",
-    "path": "Plugins/N-TILT.zip",
-    "patch": "N-TILT.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
-    "type": "fx",
-    "version": "1.0.0",
-    "enable_gem": false,
-    "enable_sfizz": false,
-    "enable_ffmpeg": false
-  },
-  {
     "name": "N-SPEC GATE",
     "author": "Nasko",
     "path": "Plugins/N-SPEC GATE.zip",
     "patch": "N-SPEC GATE.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -28,7 +18,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SPEC CLIP PD.zip",
     "patch": "N-SPEC CLIP.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -40,7 +32,9 @@
     "author": "Nasko",
     "path": "Plugins/N-IRIS.zip",
     "patch": "N-IRIS.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -52,7 +46,9 @@
     "author": "Nasko",
     "path": "Plugins/N-PHASE SHIFT.zip",
     "patch": "N-PHASE SHIFT.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -64,7 +60,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SloMo.zip",
     "patch": "N-SloMo.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -76,7 +74,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SILK.zip",
     "patch": "N-SILK.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -88,7 +88,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SPEC COMP.zip",
     "patch": "N-SPEC COMP.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -100,7 +102,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SPECTRAL MASK.zip",
     "patch": "N-SPECTRAL MASK.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
@@ -112,7 +116,9 @@
     "author": "Nasko",
     "path": "Plugins/N-SUB.zip",
     "patch": "N-SUB.pd",
-    "formats": ["VST3", "AU", "LV2", "CLAP", "Standalone"],
+    "formats": [
+      "VST3"
+    ],
     "type": "fx",
     "version": "1.0.0",
     "enable_gem": false,
